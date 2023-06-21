@@ -4,9 +4,9 @@
 ## 🔭💉 About me
 - Software Engineer at Itaú Unibanco
 - Public server at Senado Federal
-- Researcher at Fiocruz and Finatec
-- Student at [![UNB](https://img.shields.io/badge/UNB-Computer%20Science-%23008940)](https://www.unb.br/) in the 9th semester.
+- graduated in Computer Science at [![UNB](https://img.shields.io/badge/UNB-Computer%20Science-%23008940)](https://www.unb.br/).
 - Ex researcher at Modal Institute of Science, Technology and Innovation
+- Ex Researcher at Fiocruz And Finatec
 - Ex software manager at ATIVITEC
 
 
