@@ -2,8 +2,7 @@
 ### Welcome to my Github page!
 
 ## 🔭💉 About me
-- Software Engineer at Itaú Unibanco
-- Public server at Senado Federal
+- Software Engineer at Itaú Unibanco and Senado Federal
 - graduated in Computer Science at [![UNB](https://img.shields.io/badge/UNB-Computer%20Science-%23008940)](https://www.unb.br/).
 - Ex researcher at Modal Institute of Science, Technology and Innovation
 - Ex Researcher at Fiocruz And Finatec
